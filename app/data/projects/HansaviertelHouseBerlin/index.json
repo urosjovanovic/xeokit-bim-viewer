@@ -1,0 +1,15 @@
+{
+  "id": "hansaviertelHouseBerlin",
+  "name": "HansaviertelHouseBerlin",
+  "models": [
+    {
+      "id": "design",
+      "name": "HansaviertelHouseBerlin"
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  }
+}
